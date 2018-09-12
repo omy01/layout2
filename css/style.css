@@ -1,0 +1,62 @@
+
+.header{
+	border: 5px solid red;
+	min-height:100px;
+	margin: 5px;
+} 
+
+.banner{
+	border:5px solid blue;
+	min-height: 300px;
+}
+
+.service{
+	border: 5px solid Orange;
+	/*min-height: 400px;*/
+	overflow: hidden;
+	margin: 5px;
+}
+
+.sarve{
+	border: 5px solid gray;
+	min-height: 180px;
+	width: 25%;
+	float: left;
+	margin: 29px;
+}
+
+.blog{
+	border: 5px solid MediumSeaGreen;
+	min-height: 300px;
+	margin: 5px;
+}
+
+.contact{
+	min-height: 100px;
+	border: 5px solid SlateBlue;
+	margin: 5px;
+	overflow: hidden;
+}
+
+.last1{
+	border: 3px solid blue;
+	width: 60%;
+	/*min-height: 180px;*/
+	margin: 5px;
+	/*margin-bottom: : 5px;*/
+	/*margin: 0 auto;*/
+	margin: 0 auto 5px ;
+	/*overflow: hidden;*/
+	float: 50%
+}
+
+.last2{
+	border: 3px solid red;
+	width: 30%;
+	margin: 5px;
+	margin: 0 auto 5px;
+	/*margin: : 5px;*/
+	overflow: hidden;
+	float: 50%;
+
+} 
